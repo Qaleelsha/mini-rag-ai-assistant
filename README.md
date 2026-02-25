@@ -1,4 +1,4 @@
-# Mini RAG AI Knowledge Assistant (Backend Only)
+# Mini RAG AI Knowledge Assistant
 
 **Version:** 0.1.0  
 **Tech Stack:** FastAPI | PostgreSQL | SQLAlchemy | FAISS | JWT Authentication  
